@@ -1,6 +1,6 @@
 # Android Prework - *Hello World Android App*
 
-Submitted by: **Sarena Pham**
+Submitted by: **Sarena P**
 
 **Hello World Android App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
